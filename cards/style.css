@@ -54,7 +54,7 @@ body{
 
 .card.active h3{
     opacity: 1;
-    transition: opacity 0.4s ease-in 0.2s;
+    transition: opacity 0.4s ease-in;
 }
 
 
