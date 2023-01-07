@@ -3,4 +3,4 @@
 ### Live links to each project
 - [rock paper scissors](https://rock-paper-scissors.enduranceanine.repl.co/)
 - [expanding cards](https://card-redo.enduranceanine.repl.co/)
-
+- [progress bar](https://progress-bar.enduranceanine.repl.co)
